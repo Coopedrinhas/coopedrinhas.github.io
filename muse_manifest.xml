@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1505111723545">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4104652009" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="coopedrinhas.png" crc="318146265" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1465.png" crc="508620370" ref="index"/>
+    <file name="u1465-r.png" crc="4287128233" ref="index"/>
+    <file name="u1468.png" crc="4140258487" ref="index"/>
+    <file name="u1468-r.png" crc="228098946" ref="index"/>
+    <file name="u1471.png" crc="4278085943" ref="index"/>
+    <file name="u1471-r.png" crc="349789628" ref="index"/>
+    <file name="u1480.png" crc="4121802502" ref="index"/>
+    <file name="u1480-r.png" crc="490384206" ref="index"/>
+    <file name="u1884.png" crc="214964417" ref="index"/>
+    <file name="u1884-r.png" crc="4053060313" ref="index"/>
+    <file name="flor3.jpg" crc="4203556249" seo="true" ref="index"/>
+    <file name="laran8.jpg" crc="327836178" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cactus.jpg" crc="3761800481" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="4016397869" seo="true" ref="index"/>
+    <file name="u4194.png" crc="3916296820" ref="index"/>
+    <file name="u4194-r.png" crc="4231052271" ref="index"/>
+    <file name="u4404-4.png" crc="464047631" ref="index"/>
+    <file name="capped.jpg" crc="3999947772" seo="true" ref="index"/>
+    <file name="u4268-27.png" crc="3967283020" ref="index"/>
+    <file name="u4411-4.png" crc="215689991" ref="index"/>
+    <file name="cactus134x89.jpg" crc="509767820" seo="true" ref="index"/>
+    <file name="trees134x89.jpg" crc="386417028" seo="true" ref="index"/>
+    <file name="logo.png" crc="4203063169" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="474389803" seo="true" mt="1505111684566" redirect="true"/>
+</manifest>
